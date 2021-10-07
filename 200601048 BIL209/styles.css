@@ -1,0 +1,29 @@
+.sayfa {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%,-50%);
+  background-color: #cbdef1;
+  box-shadow: 5px 5px 8px rgba(0, 0, 0, 0.6);
+  border-radius: 8px;
+}
+.btn {
+    background-color: #ffc3dce7;
+    padding: 14px 28px;
+    font-size: 15px;
+    cursor: pointer;
+    display: inline-block;
+  }
+
+  .btn:hover {background: rgb(241, 155, 155);}
+  
+  .topla {color: #070608;}
+  .cikar {color: #110f10;}
+  .carp {color: #0e0f0a;}
+  .bol {color: #160e08;}
+  
+  .baslik {
+    text-align: center;
+    font-size: 30px;
+    color: #00458a;
+  }
